@@ -1,0 +1,1 @@
+# latihan-abstract-class
