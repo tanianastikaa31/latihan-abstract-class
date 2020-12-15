@@ -1,0 +1,2 @@
+abstract class adalah abstract berisi method dan beberapa method abstract. Abstarct class akan selalu menjadi superclass/hirarki dari subclassnya
+Interface adalah sebuah blok signature kumpulan method yang menghubungkan class-class yang berbeda
